@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: fira-light;
+  src: url(/fonts/FiraCode-Light.ttf);
+}
+@font-face {
+  font-family: fira-regular;
+  src: url(/fonts/FiraCode-Regular.ttf);
+}
+@font-face {
+  font-family: fira-semibold;
+  src: url(/fonts/FiraCode-SemiBold.ttf);
+}
+.fira-light {
+  font-family: fira-light;
+}
+.fira-regular {
+  font-family: fira-regular;
+}
+.fira-semibold {
+  font-family: fira-semibold;
+}
+
+.header {
+  width: -webkit-fill-available;
+  width: -moz-available;
+}
+
+.hero-padding {
+  @apply p-10 sm:p-16 md:p-20 pb-5 sm:pb-5 md:pb-5;
+}
