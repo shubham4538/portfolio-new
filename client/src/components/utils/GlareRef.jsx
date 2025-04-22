@@ -29,7 +29,7 @@ function GlareRef({ icon }) {
       onMouseLeave={handleMouseLeave}
     >
       <img
-        src={`/public/images/language/${icon[1]}.png`}
+        src={`/images/language/${icon[1]}.png`}
         alt=""
         className="w-12 md:w-14"
       />
