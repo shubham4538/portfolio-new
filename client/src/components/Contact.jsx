@@ -11,7 +11,10 @@ function Contact() {
   const formSubmit = (e) => {
     e.preventDefault();
     axios
-      .post("http://localhost:3001/formdata", userDetails)
+      .post(
+        "https://portfolio-server-gules-mu.vercel.app/formdata",
+        userDetails
+      )
       .then((response) => {
         console.log(response);
         if (response.data.response) {
