@@ -24,6 +24,10 @@
   font-family: fira-semibold;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .header {
   width: -webkit-fill-available;
   width: -moz-available;

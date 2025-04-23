@@ -23,8 +23,8 @@ function Contact() {
       });
   };
   return (
-    <div className="min-h-screen">
-      <div className="max-w-6xl m-auto flex flex-col justify-center items-center gap-14 p-16 sm:p-20">
+    <div className="min-h-screen" id="contact">
+      <div className="max-w-6xl m-auto flex flex-col justify-center items-center gap-14 p-5 py-20 sm:px-10 md:px-20">
         <div className="w-max fira-semibold text-3xl md:text-4xl bg-gradient-to-r from-[#9AB2ED] to-[#C8ED79] text-transparent bg-clip-text">
           Contact
         </div>
@@ -50,7 +50,9 @@ function Contact() {
                 <a href="https://t.me/shubhamsinghvi31">
                   <i className="fab fa-telegram" />
                 </a>
-                <i className="fab fa-linkedin-in" />
+                <a href="https://www.linkedin.com/in/shubham-singhvi-profile/">
+                  <i className="fab fa-linkedin-in" />
+                </a>
               </div>
             </div>
           </div>

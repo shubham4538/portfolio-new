@@ -5,8 +5,8 @@ import { projects } from "../data";
 
 function Projects() {
   return (
-    <div className="min-h-screen">
-      <div className="max-w-6xl m-auto flex flex-col justify-center items-center gap-14 p-5 py-16 sm:p-10">
+    <div className="min-h-screen" id="projects">
+      <div className="max-w-6xl m-auto flex flex-col justify-center items-center gap-14 p-5 py-20 md:px-10">
         <div className="w-max fira-semibold text-3xl md:text-4xl bg-gradient-to-r from-[#9AB2ED] to-[#C8ED79] text-transparent bg-clip-text">
           Projects
         </div>
