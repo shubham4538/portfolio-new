@@ -16,6 +16,14 @@ var projects = [
     img: "web-blog",
   },
   {
+    title: "LinkmanURL",
+    description:
+      "LinkmanURL is a URL Shortener application which shortens your long URLs to short ones and you can also earn money for each click on your shortened URL",
+    link: "https://linkmanurl.vercel.app/",
+    code: "https://linkmanurl.vercel.app/",
+    img: "linkmanurl",
+  },
+  {
     title: "Social Gram",
     description:
       "Social Gram in a Social Media Application with similar features from Instagram",
