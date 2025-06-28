@@ -29,7 +29,7 @@ function Hero() {
               India. I have strong problem-solving skills, attention to detail.
             </div>
             <a
-              href="https://drive.google.com/file/d/1Y_hHD-FSk46dvTTzKroviuBJAgqE6JEw/view?usp=sharing"
+              href="https://drive.google.com/file/d/1nM948SxI7GZEKdye0D6KcSlT_m65F4BE/view?usp=sharing"
               target="_blank"
               className="underline w-max"
             >

@@ -104,6 +104,7 @@ var langIcons = [
   ["Angular", "angular"],
   ["TypeScript", "typescript"],
   // ["Golang", "go"],
+  ["Shopify", "shopify"],
   ["Strapi", "strapi"],
   ["Sanity", "sanity"],
   ["NextJs", "nextjs"],
