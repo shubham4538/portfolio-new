@@ -4,15 +4,15 @@
 
 @font-face {
   font-family: fira-light;
-  src: url(/fonts/FiraCode-Light.ttf);
+  src: url(/fonts/SF-Display-Light.otf);
 }
 @font-face {
   font-family: fira-regular;
-  src: url(/fonts/FiraCode-Regular.ttf);
+  src: url(/fonts/SF-Display-Medium.otf);
 }
 @font-face {
   font-family: fira-semibold;
-  src: url(/fonts/FiraCode-SemiBold.ttf);
+  src: url(/fonts/SF-Display-Bold.otf);
 }
 .fira-light {
   font-family: fira-light;
