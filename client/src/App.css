@@ -1,0 +1,37 @@
+@font-face {
+  font-family: fira-thin;
+  src: url(./assets/fonts/SF-Display-Thin.otf);
+}
+@font-face {
+  font-family: fira-light;
+  src: url(./assets/fonts/SF-Display-Light.otf);
+}
+@font-face {
+  font-family: fira-regular;
+  src: url(./assets/fonts/SF-Display-Medium.otf);
+}
+@font-face {
+  font-family: fira-semibold;
+  src: url(./assets/fonts/SF-Display-Bold.otf);
+}
+.fira-thin {
+  font-family: fira-thin;
+}
+.fira-light {
+  font-family: fira-light;
+}
+.fira-regular {
+  font-family: fira-regular;
+}
+.fira-semibold {
+  font-family: fira-semibold;
+}
+
+/* html {
+  scroll-behavior: smooth;
+} */
+
+.header {
+  width: -webkit-fill-available;
+  width: -moz-available;
+}
