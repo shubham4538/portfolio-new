@@ -144,12 +144,12 @@ export default function HorizontalIconsScroll() {
                   <img
                     className="absolute transition-opacity duration-200 ease-in-out"
                     style={{ opacity: `${activeName === icon[0] ? 1 : 0}` }}
-                    src={`./src/assets/images/language/color/${icon[1]}.png`}
+                    src={`/assets/images/language/color/${icon[1]}.png`}
                   />
                   <img
                     className="absolute transition-opacity duration-200 ease-in-out"
                     style={{ opacity: `${activeName === icon[0] ? 0 : 1}` }}
-                    src={`./src/assets/images/language/white/${icon[1]}.png`}
+                    src={`/assets/images/language/white/${icon[1]}.png`}
                   />
                 </div>
               );
@@ -157,11 +157,11 @@ export default function HorizontalIconsScroll() {
           </div>
         </div>
         <img
-          src="./src/assets/images/avatar/skills-full.png"
+          src="/assets/images/avatar/skills-full.png"
           className="block xs:hidden absolute bottom-0 left-0 right-0 m-auto px-5"
         />
         <img
-          src="./src/assets/images/avatar/skills.png"
+          src="/assets/images/avatar/skills.png"
           className="hidden xs:block max-h-72 absolute bottom-0 left-0 right-0 m-auto"
         />
       </div>
