@@ -67,7 +67,7 @@ function Footer() {
               +91 9137968731
             </a>
             <a
-              href="/resume.pdf"
+              href="https://docs.google.com/document/d/1l-H54fjtaXCSQ54uet5Gdb6OIA3V1rWi/edit?usp=sharing&ouid=116718190758739770017&rtpof=true&sd=true"
               target="_blank"
               className="hover:text-[#9f51ff]"
             >

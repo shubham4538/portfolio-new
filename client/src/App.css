@@ -1,18 +1,18 @@
 @font-face {
   font-family: fira-thin;
-  src: url(./assets/fonts/SF-Display-Thin.otf);
+  src: url(/assets/fonts/SF-Display-Thin.otf);
 }
 @font-face {
   font-family: fira-light;
-  src: url(./assets/fonts/SF-Display-Light.otf);
+  src: url(/assets/fonts/SF-Display-Light.otf);
 }
 @font-face {
   font-family: fira-regular;
-  src: url(./assets/fonts/SF-Display-Medium.otf);
+  src: url(/assets/fonts/SF-Display-Medium.otf);
 }
 @font-face {
   font-family: fira-semibold;
-  src: url(./assets/fonts/SF-Display-Bold.otf);
+  src: url(/assets/fonts/SF-Display-Bold.otf);
 }
 .fira-thin {
   font-family: fira-thin;

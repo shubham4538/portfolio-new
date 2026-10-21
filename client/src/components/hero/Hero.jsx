@@ -8,10 +8,7 @@ function Hero() {
             <div className="text-4xl md:text-6xl">I'm Shubham</div>
           </div>
           <div className="w-4/5 md:w-2/5">
-            <img
-              src="./src/assets/images/avatar/avatar.png"
-              className="w-full"
-            />
+            <img src="/assets/images/avatar/avatar.png" className="w-full" />
           </div>
         </div>
       </div>

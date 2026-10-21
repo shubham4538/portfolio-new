@@ -142,13 +142,13 @@ export default function HorizontalIconsScroll() {
                   willChange: "transform, opacity",
                 }}
               >
-                <img src={`./src/assets/images/language/${icon[1]}.png`} />
+                <img src={`/assets/images/language/${icon[1]}.png`} />
               </div>
             );
           })}
         </div>
         <img
-          src="./src/assets/images/avatar/skills.png"
+          src="/assets/images/avatar/skills.png"
           className="max-h-72 absolute bottom-0 left-0 right-0 m-auto"
         />
       </div>

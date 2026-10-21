@@ -18,10 +18,7 @@ function Hero3() {
             </div>
           </div>
           <div className="w-4/5 md:w-2/5">
-            <img
-              src="./src/assets/images/avatar/avatar3.png"
-              className="w-full"
-            />
+            <img src="/assets/images/avatar/avatar3.png" className="w-full" />
           </div>
         </div>
       </div>

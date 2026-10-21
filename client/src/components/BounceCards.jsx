@@ -361,7 +361,7 @@ export default function BounceCards({
         >
           {card.src && (
             <img
-              src={`./src/assets/images/projects/${card.src}.png`}
+              src={`/assets/images/projects/${card.src}.png`}
               alt={card.alt}
               draggable={false}
             />
